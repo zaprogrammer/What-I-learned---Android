@@ -1,6 +1,4 @@
----
-
-
+What I Learned - Android
 ---
 
 <p>As we move on developing software, we learn new skills and customize our IDE we love (or forced to work with sometimes) upon our needs to facilitate the daily development life.<br>
